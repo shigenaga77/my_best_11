@@ -13,6 +13,9 @@
 ### 主な利用シーン
 <自分のベストイレブンの共有、他の人のベストイレブンを知りたい時>
 
+## 実装機能リスト
+https://docs.google.com/spreadsheets/d/1ycOK7pZJ6--5WOjgOkr4MYEIUnRomlKanqFRaXlnxGs/edit?usp=sharing
+
 ## 設計書
 <...>
 
